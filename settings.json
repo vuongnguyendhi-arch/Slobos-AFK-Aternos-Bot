@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "BOT01",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "MegaSMP-5wnQ.aternos.me:50572",
