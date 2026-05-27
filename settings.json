@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "MegaSMP-5wnQ.aternos.me",
+    "ip": "MegaSMP-5wnQ.aternos.me:50572",
     "port": 50572,
     "version": "",
     "try-creative": false
